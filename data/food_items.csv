@@ -1,0 +1,101 @@
+food_id,name,cuisine,category,price,tags,attributes
+42dd5246-937f-44c5-92a5-54f004745c33,"""Star-Spangled Mac Attack""",American,Lunch,11.88,"['Vegetarian', 'Kosher']",Savory
+6d5a1830-ab03-4b62-a880-873f850e2f94,"""Spicy Masala Delight""",Indian,Lunch,10.06,"['Vegan', 'Vegetarian']",Spicy
+f8f4f2ef-b2c8-4825-bc44-989c79b36639,Fiesta de Queso y Jalapeño: A zesty and cheesy Mexican dish featuring jal,Mexican,Main Course,23.68,"['Keto', 'Gluten-Free']",Savory
+07b5bfcf-1db7-45cc-89e6-26ec3b6c9597,"""Tokyo Temptation Bento Box""",Japanese,Dessert,5.7,"['Halal', 'Keto']",Savory
+a082f803-38c8-424f-b94e-3784ad7f24de,"""Southern Comfort BBQ Mac Attack""",American,Dessert,19.4,"['Vegan', 'Halal']",Spicy
+8d86abf7-616c-40b7-bf77-aa5b43f1817d,"""Smoky Maple Bacon Mac 'n' Cheese Delight""",American,Main Course,14.51,"['Vegan', 'Halal']",Tangy
+c4c00b26-ed09-4fb6-be32-1ecc8d10163a,"""Fiesta Fajita Extravaganza""",Mexican,Appetizer,12.21,"['Keto', 'Kosher']",Spicy
+4840109e-2577-484d-9f5d-b0d6c7359acd,"""Bangkok Street Noodle Fiesta""",Thai,Breakfast,19.52,"['Vegetarian', 'Halal']",Savory
+680fd3ce-73de-4b03-8fd5-1a4176f337f3,Fiesta Fajita Fiesta,Mexican,Appetizer,27.63,"['Vegetarian', 'Keto']",Spicy
+3c2d32be-af6a-4351-867d-100aea0633a0,"""Sakura Sizzle Bowl""",Japanese,Main Course,26.87,"['Kosher', 'Vegan']",Tangy
+b5fb524a-cfdf-4286-8113-8de1e89dc037,"""Thai Spice Symphony""",Thai,Main Course,7.72,"['Vegetarian', 'Gluten-Free']",Savory
+14ccee78-e6f3-48c2-a7e5-075bba2b4d63,"""Pasta Paradiso Alla Tricolore""",Italian,Appetizer,8.04,"['Vegetarian', 'Keto']",Tangy
+ce77ded4-2998-4aea-a4f1-6e817b91f6d0,"""Enchiladas Fiesta Fantástica""",Mexican,Dinner,6.03,"['Vegetarian', 'Gluten-Free']",Tangy
+7b89892c-0903-4fd8-99a9-a4898e7d824e,"""Tokyo Twist Tempura Bento Box""",Japanese,Appetizer,5.6,"['Vegetarian', 'Keto']",Savory
+ea2adea5-ed2c-46a7-9e0d-58467832d699,"""Southern Comfort Crunchwrap""",American,Lunch,28.09,"['Kosher', 'Halal']",Spicy
+7a440263-da1e-426d-b6b9-4dd165dd2678,"""Zesty Pesto Parmigiana Pasta""",Italian,Dessert,19.07,"['Kosher', 'Halal']",Sweet
+70abedca-c570-4e50-b4df-955e71c0fad4,"""Southern Comfort Bowl""",American,Dinner,5.28,"['Halal', 'Vegan']",Spicy
+7be1bc5a-87e8-43c7-8f11-af7a2756132c,"""Bangkok Street Spice Explosion""",Thai,Appetizer,20.92,"['Kosher', 'Vegetarian']",Tangy
+13c5ed8d-0438-4d32-a8f8-742251b67853,"""Tandoori Fusion Delight""",Indian,Dessert,26.08,"['Vegan', 'Keto']",Sweet
+02a14693-49e9-4242-ae0e-92a7f45e2841,"""Nonna's Rustic Ravioli Rendezvous""",Italian,Dinner,16.32,"['Kosher', 'Halal']",Spicy
+89997e8a-1a5b-4885-b357-96df45653da9,"""Enchiladas Fiesta Supreme""",Mexican,Breakfast,13.16,"['Kosher', 'Vegan']",Sweet
+72dd82ec-6e88-445e-acad-2d9ce35c550b,Sakura Blossom Bento Box,Japanese,Appetizer,24.54,"['Vegetarian', 'Gluten-Free']",Spicy
+04a30577-49d3-4e3b-ac76-6da92e01c892,"""Spicy Basil Bliss Stir-fry""",Thai,Breakfast,11.58,"['Keto', 'Vegan']",Sweet
+8518154d-2f2f-429a-bc92-57bdbb19806f,"""Tokyo Temptation Roll""",Japanese,Dessert,8.99,"['Gluten-Free', 'Vegetarian']",Tangy
+a58505a3-b880-424b-9cfb-80816c6993eb,"""Nonna's Truffle Dreams""",Italian,Dessert,21.44,"['Kosher', 'Keto']",Savory
+a1f33808-48cc-483b-8973-230915cf5ad0,"""Spicy Mango Tango Chicken Stir-Fry""",Thai,Main Course,24.91,"['Gluten-Free', 'Kosher']",Spicy
+247be5aa-640f-471b-bc5e-566abd29512a,"""Southern Comfort Mac Attack""",American,Dinner,26.15,"['Halal', 'Vegan']",Savory
+39354c4d-f96e-4d45-9ffa-0b5cfea8c241,"""Tandoori Tango Delight""",Indian,Main Course,18.16,"['Vegan', 'Keto']",Spicy
+3d397c97-b7fd-40b7-956b-353ef56fe069,"""Bangkok Bliss Bowl""",Thai,Dinner,26.97,"['Kosher', 'Halal']",Savory
+d7a9ce06-0058-4adb-a5fa-1b308cba72c8,"""Tandoori Temptation Tikka Masala""",Indian,Dinner,9.86,"['Gluten-Free', 'Keto']",Spicy
+8ad6f0a5-1a43-4499-b5c5-18eaf68eb0db,"""Wok This Way"" Stir-fried Szechuan Chicken",Chinese,Lunch,14.07,"['Gluten-Free', 'Vegetarian']",Savory
+ae392869-3bcd-4042-b54d-c2bf85431df4,"""Southern Sunshine Skillet""",American,Breakfast,29.54,"['Gluten-Free', 'Vegan']",Savory
+cbc95e79-1a2e-4f91-854c-f4f48911dd4d,"""Pasta Primavera Fantasia""",Italian,Dinner,15.45,"['Kosher', 'Gluten-Free']",Sweet
+d9001400-22df-4f0e-af26-2eb55573e75c,"""Zesty Zucchini Ziti""",Italian,Dessert,7.42,"['Kosher', 'Vegan']",Tangy
+77b1d303-48c7-4138-9f9b-8da379b96fea,"""Southern Comfort Crunchwrap""",American,Main Course,10.22,"['Kosher', 'Vegan']",Spicy
+e3433450-be97-466f-84c6-44218a11afde,"""Nonna's Truffle Tango Risotto""",Italian,Main Course,17.33,"['Vegetarian', 'Keto']",Sweet
+95e0cf9b-efed-4c46-a5d2-984f780daeb7,"""Spicy Basil Bliss Stir-Fry""",Thai,Dessert,19.71,"['Gluten-Free', 'Vegan']",Tangy
+54de0f4f-d33a-4686-95bf-46aa09edc492,"""Spicy Tiger's Roar Noodle Bowl""",Thai,Lunch,8.23,"['Kosher', 'Gluten-Free']",Sweet
+14009e2a-1fb7-42ca-aab9-f6de90587035,"""Tandoori Tango Fusion""",Indian,Breakfast,11.52,"['Kosher', 'Keto']",Spicy
+d9f142b7-3916-49c6-a43b-ada11762200c,Tandoori Temptation Delight,Indian,Appetizer,17.39,"['Vegan', 'Kosher']",Tangy
+64d91bff-7a23-4021-932b-5097bf901340,"""Wok'n'Roll Kung Pao Fusion""",Chinese,Dinner,19.91,"['Vegetarian', 'Gluten-Free']",Spicy
+38452d63-0ce0-41ca-9ab2-3f39dfbef325,"""Spicy Basil Bliss Stir-Fry""",Thai,Main Course,24.27,"['Kosher', 'Keto']",Tangy
+a04a5b14-7df7-40f5-b852-135343b47ff8,"""Tandoori Tango Masala Madness""",Indian,Appetizer,7.02,"['Halal', 'Gluten-Free']",Tangy
+1cffe58c-809a-4584-bb93-73fd3b368ddd,"""Dragon's Fire Stir-Fry""",Chinese,Breakfast,9.11,"['Vegetarian', 'Halal']",Sweet
+441c42bf-a541-4828-8307-daa45895d9f1,Fiesta Fajita Fiesta,Mexican,Appetizer,18.36,"['Keto', 'Vegetarian']",Sweet
+395f8b96-973a-4770-a374-c054fc565faa,"""Dragon's Breath Spicy Szechuan Stir-Fry""",Chinese,Dinner,18.44,"['Gluten-Free', 'Vegan']",Savory
+8e5d87ed-7d76-4f4f-84c3-f4acde3f9bbc,"""Tandoori Tikka Twist""",Indian,Main Course,9.08,"['Vegan', 'Vegetarian']",Tangy
+80ddfc10-7d5a-441c-a823-adda0b7afa06,"""Chili Lime Fiesta Bowl""",Mexican,Appetizer,29.97,"['Halal', 'Vegan']",Sweet
+7dc92fb7-9e57-407d-872b-9c5a434ffc66,"""Tokyo Fusion Roll""",Japanese,Dessert,5.47,"['Vegetarian', 'Keto']",Spicy
+e6b82154-654f-4ebb-97b3-194f9d35a20e,"""Sizzling Salsa Verde Enchiladas""",Mexican,Lunch,29.0,"['Kosher', 'Vegan']",Spicy
+383dc98e-b910-4ff2-9286-b3b00bdb8ea5,"""Fiery Fiesta Fajita Fun""",Mexican,Appetizer,11.3,"['Keto', 'Vegan']",Tangy
+4a0983e6-7b5c-4403-bf67-9b8441abbfb3,"""Sakura Sizzle Roll"" - A delicious and visually appealing sushi roll featuring fresh salmon, avocado",Japanese,Dinner,21.11,"['Kosher', 'Vegan']",Savory
+56f9239d-66c8-4d66-8c6d-f398b407540a,Dragon Fire Spicy Szechuan Stir-Fry,Chinese,Dinner,6.55,"['Keto', 'Halal']",Sweet
+37576e27-f5f4-48e4-afe6-dfc28ea5b13d,"""Zesty Fiesta Fajita Bowl""",Mexican,Lunch,20.89,"['Halal', 'Kosher']",Spicy
+ac183e5c-0023-4efb-9830-f7b1ca12f332,"""Dragon Fire Ramen Bowl""",Japanese,Main Course,24.54,"['Keto', 'Kosher']",Savory
+8735cd4b-c10a-48dd-8647-8f9d573f853c,"""Tricolore Tortellini Twist""",Italian,Appetizer,5.49,"['Gluten-Free', 'Kosher']",Spicy
+b1dc891d-e4e2-4784-83ac-a309cba78684,Spicy Fiesta Enchiladas Supreme,Mexican,Lunch,24.8,"['Halal', 'Gluten-Free']",Spicy
+f09c3aed-5f53-48b8-b9c3-44b47cce6e43,"""The All-American Dream Burger""",American,Main Course,15.71,"['Halal', 'Gluten-Free']",Savory
+facaedce-b1e2-477c-83db-ac7e591cf05b,"""Bangkok Bliss Bowl""",Thai,Lunch,19.51,"['Vegetarian', 'Keto']",Spicy
+35909371-3423-4687-be94-0708a75705c5,"""Tandoori Fusion Delight""",Indian,Breakfast,26.39,"['Gluten-Free', 'Halal']",Spicy
+37ae1874-7d00-4929-9f80-eede5ded2fcb,"""Chili Fiesta Fajita Bowl""",Mexican,Breakfast,21.97,"['Kosher', 'Keto']",Sweet
+49ed72c2-3aa4-4734-8977-005602852e81,Taco Fiesta Bombs,Mexican,Lunch,11.88,"['Vegetarian', 'Gluten-Free']",Tangy
+452f733b-3685-49f9-9c8a-746125e69dbb,"""Enchiladas Fiesta Fantástica""",Mexican,Main Course,24.21,"['Keto', 'Halal']",Savory
+cf67776c-b12c-4a5e-8937-5163deaf4388,"""Bangkok Bliss Bowl""",Thai,Lunch,10.35,"['Vegetarian', 'Halal']",Spicy
+0ba207c1-5efa-4851-92ea-d9272d909835,"""Tokyo Twilight Temptation Bowl""",Japanese,Lunch,16.58,"['Keto', 'Vegan']",Spicy
+8164172a-41ba-4b86-8d33-0471857da00c,Dragon's Fire Noodle Bowl,Chinese,Main Course,18.89,"['Halal', 'Vegetarian']",Sweet
+4a336b51-7e7d-4a44-aee2-e1996c420e3e,"""Chili Verde Fiesta Bowl""",Mexican,Lunch,14.14,"['Vegetarian', 'Keto']",Spicy
+1129ece2-97a4-40dc-a304-e3e8d3c4fc40,"""Southern Comfort BBQ Mac Attack""",American,Appetizer,8.67,"['Kosher', 'Vegan']",Spicy
+6f96dfad-8b54-4e46-8fd8-7dcf65951b71,"""Southern Comfort Crunchwrap""",American,Dessert,28.91,"['Keto', 'Gluten-Free']",Tangy
+891ca7bb-b312-4371-b755-d5922acd16f8,Golden Dragon Firecracker Shrimp,Chinese,Dessert,5.76,"['Kosher', 'Vegan']",Sweet
+436635a4-f9b4-496c-a379-bf276e5fe819,"""Nonna's Truffle Delight Linguine""",Italian,Dessert,23.72,"['Gluten-Free', 'Vegan']",Savory
+e04e3a3f-e3b9-4511-b6db-56ba559789c3,"""Spicy Masala Madness""",Indian,Dinner,27.25,"['Vegan', 'Kosher']",Spicy
+5d09724a-0b36-4a38-8169-f4a62a2de992,Sizzlin' Chorizo Fiesta Bowl,Mexican,Lunch,7.64,"['Halal', 'Vegetarian']",Spicy
+f7d30a73-be15-4937-b238-0ce69f5f1631,"""Tropical Sunrise Curry""",Thai,Dinner,25.12,"['Gluten-Free', 'Vegan']",Spicy
+e10bec62-153f-47b5-97c7-9422355d1fa2,Wok'n'Roll Spicy Dragon Noodles,Chinese,Breakfast,15.86,"['Gluten-Free', 'Keto']",Savory
+ae8bbcf0-7171-4ded-9832-a089ee062658,"""Masala Mania Chaat Explosion""",Indian,Dinner,23.72,"['Keto', 'Kosher']",Spicy
+4f6eb836-4d6e-4783-8a50-950d22c7f04e,Sakura Sunshine Sushi Platter,Japanese,Breakfast,24.22,"['Kosher', 'Vegan']",Savory
+da389a33-ffac-48ef-93de-e589f43064ac,"""Pasta Paradiso Primavera""",Italian,Dessert,18.16,"['Vegan', 'Vegetarian']",Savory
+bcf80963-0a27-4f32-a1c2-5e3e3967e999,"""Spicy Mango Tango Stir-Fry""",Thai,Dessert,18.86,"['Vegetarian', 'Gluten-Free']",Savory
+f995be40-1f86-4634-b83a-6344b75218b1,"""Spicy Basil Bliss Stir-Fry""",Thai,Dinner,9.18,"['Vegetarian', 'Kosher']",Tangy
+a1aa61ea-0980-4c5f-83bb-84f918669bbc,"""Tandoori Fusion Delight""",Indian,Dessert,26.38,"['Keto', 'Halal']",Tangy
+e35c5d09-7941-421c-9d63-5979964c080a,"""Zesty Fiesta Enchiladas""",Mexican,Breakfast,20.01,"['Vegetarian', 'Kosher']",Spicy
+9da1416c-65a5-41a2-bdd8-9af502af0c6b,"""Tandoori Tikka Masala Madness""",Indian,Dessert,8.27,"['Keto', 'Vegetarian']",Tangy
+7abe17da-7df2-44d3-a4df-7afba0d4c2ee,Southern Comfort Crunchy Chicken Bowl,American,Appetizer,13.78,"['Halal', 'Gluten-Free']",Savory
+7a608882-0f16-4b77-b205-61b815c910c9,"""Wok'n'Roll Firecracker Chicken""",Chinese,Dinner,6.09,"['Halal', 'Gluten-Free']",Sweet
+412e3cef-fd54-4d8d-9702-597efcd0159c,"""Spicy Mango Tango Curry""",Thai,Dinner,6.25,"['Kosher', 'Halal']",Spicy
+a6713e54-0f4e-4fa4-9e1f-073753da847b,"""Southern Comfort Skillet Surprise""",American,Lunch,28.95,"['Halal', 'Keto']",Sweet
+eaca911d-43b1-44e2-a0c3-a0b99bd1c7d0,"""Smoky Fiesta Enchiladas""",Mexican,Main Course,11.51,"['Kosher', 'Vegetarian']",Sweet
+6ff4b590-9cde-42d1-bdb4-f121c8aedb94,"""Bangkok Spice Symphony""",Thai,Dessert,17.49,"['Halal', 'Keto']",Tangy
+c1eba6ae-d7d2-4d98-96b3-3fadd89d5372,Dragon's Fire Stir-Fry Supreme,Chinese,Dessert,12.1,"['Keto', 'Gluten-Free']",Savory
+3ceadc44-6d42-4165-925c-a39f21c86039,"""Southern Comfort Mac Attack""",American,Breakfast,19.85,"['Kosher', 'Halal']",Sweet
+b8df7a6c-ea55-4e1f-a1e8-16d8e759d584,Fiery Fiesta Fajita Bowl,Mexican,Lunch,28.85,"['Vegan', 'Vegetarian']",Savory
+920694a0-b1e0-4e4b-91ec-b80c782e0a22,Tandoori Temptation Twist,Indian,Lunch,7.9,"['Vegan', 'Kosher']",Savory
+484465b8-4f33-4693-8572-19d18ff8c76c,"""Amore al Forno"" - a delicious baked pasta dish with layers of cheese, tomato sauce",Italian,Dinner,8.16,"['Kosher', 'Vegan']",Sweet
+c3974a97-090d-4b25-bee8-aa925c2eed68,"""Tandoori Fusion Delight""",Indian,Lunch,24.69,"['Vegan', 'Vegetarian']",Savory
+2f9c5a5c-3e8b-4c34-a4d4-170c7af5b1b7,"""Smoky Mountain BBQ Bliss Bowl""",American,Breakfast,29.29,"['Vegetarian', 'Vegan']",Tangy
+5b6586f8-615e-4969-87d6-d0308d322cb3,"""Tandoori Twist Delight""",Indian,Dessert,5.72,"['Kosher', 'Vegetarian']",Spicy
+ad3336bf-c826-4714-854d-d0c8d61c5c55,"""Southern Comfort Mac Attack""",American,Appetizer,29.08,"['Keto', 'Kosher']",Tangy
+155e3b44-1053-4da2-ba52-ee64fb746ff6,"""Chili Fiesta Tostada Tower""",Mexican,Dinner,28.54,"['Halal', 'Gluten-Free']",Spicy
+7ae2d82b-6cb8-423f-a4be-a94d83b8f52b,"""Sakura Blossom Bento Box""",Japanese,Appetizer,22.76,"['Halal', 'Keto']",Tangy

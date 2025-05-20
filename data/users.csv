@@ -1,0 +1,21 @@
+user_id,name,age,gender,cuisine_preferences,dietary_restrictions,location
+aaa0ea22-90ae-4736-a95b-36e876e9d266,Emily Johnson,21,Male,"['Indian', 'Italian', 'Thai']","['Kosher', 'Vegetarian']",Lake Chloe
+17a37c0e-e71d-4f0a-9663-ec2df9dcb95d,Emily Jacobs,65,Male,"['Mexican', 'Italian', 'American']","['Keto', 'Kosher']",Rowebury
+2beccce5-ea18-4443-b188-d5293ad2b84d,Olivia Thompson,43,Female,"['Italian', 'American', 'Japanese']","['Gluten-Free', 'Vegan']",Hannahhaven
+d244b9b7-ed42-4932-9f4a-3b0d9aeedc53,Olivia Anderson,22,Male,"['American', 'Thai', 'Mexican']","['Keto', 'Vegan']",Mistyview
+e264bdcf-384f-4ee6-9b41-c8d6339cfaa2,Liam Thompson,31,Male,"['Italian', 'Chinese', 'American']","['Gluten-Free', 'Keto']",Marcusland
+7b64fc00-f356-49ce-8460-5881f871a0d9,Emma Thompson,26,Female,"['American', 'Indian', 'Thai']","['Halal', 'Vegan']",Port Michael
+18c134fc-3d2a-4819-ae19-8d4ec7397b60,Olivia Thompson,28,Female,"['Chinese', 'Japanese', 'Italian']","['Vegetarian', 'Vegan']",Wilkinsonland
+c8954846-75dc-4303-a484-1154d6c77649,Samantha Jones,64,Female,"['Italian', 'American', 'Chinese']","['Vegetarian', 'Vegan']",Jessicastad
+517ed636-1f9e-4fdc-8678-cef672821a11,Sarah Thompson,53,Male,"['Indian', 'Chinese', 'American']","['Gluten-Free', 'Halal']",Miguelmouth
+5d059cfb-11ab-4be4-8416-15a7f9742d01,Alexis Parker,24,Male,"['Thai', 'Chinese', 'American']","['Halal', 'Keto']",Burkeview
+c57d49de-1f1e-492e-b4bc-eca31b14d9ea,Alexis Ramirez,65,Female,"['American', 'Italian', 'Indian']","['Kosher', 'Vegan']",North Daniel
+ce62e954-810e-44ed-8494-1229125300b5,Liam Thompson,64,Female,"['Italian', 'American', 'Thai']","['Vegan', 'Kosher']",Lake Keithborough
+2bb74728-cb88-4716-ba49-2e7876736e3d,Liam Morrison,52,Male,"['Indian', 'Chinese', 'Mexican']","['Gluten-Free', 'Kosher']",Lake Robertshire
+6a041e0f-d933-4af2-a838-9451d38d6ea5,Olivia Bennett,40,Male,"['Mexican', 'American', 'Thai']","['Halal', 'Vegan']",Davenporthaven
+e9bf6f72-3e0d-4ecf-bd75-f6ebea8325c6,Jane Smith,49,Male,"['Indian', 'Thai', 'Mexican']","['Keto', 'Vegan']",East Todd
+4e219a32-d1c4-449a-ab31-21744fbb129f,Alice Thompson,49,Male,"['Mexican', 'Japanese', 'Thai']","['Vegetarian', 'Gluten-Free']",Chadfort
+66feedd2-48a7-4be9-886f-5ae8bf55558d,Liam Mitchell,45,Male,"['Indian', 'Mexican', 'American']","['Vegetarian', 'Kosher']",Veronicafurt
+2930ff69-6c77-4533-8d4d-54df98cd3593,Alice Thompson,52,Female,"['Japanese', 'American', 'Indian']","['Vegan', 'Keto']",Woodardfort
+d3dfd2d3-f5a4-4db1-ba28-ee192473f8bb,Emily Johnson,42,Male,"['Chinese', 'Indian', 'Thai']","['Halal', 'Vegan']",Port Daniel
+e3dfc17a-f38f-4d0d-ae63-7fad6fb34420,Alice Thompson,31,Female,"['American', 'Italian', 'Mexican']","['Vegetarian', 'Vegan']",Brandyborough
