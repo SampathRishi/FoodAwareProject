@@ -2,6 +2,14 @@
 
 FOODAWARE is an intelligent food recommendation system that suggests food items based on user preferences, current weather conditions, and detected mood.
 
+## Demo Videos
+
+### Main Application Demo
+[Download App Demo Video](app.mov)
+
+### Analytics Dashboard Demo
+[Download Analytics Demo Video](analytics.mov)
+
 ## Features
 
 - **User Profile Management**: Select from existing user profiles with their preferences
